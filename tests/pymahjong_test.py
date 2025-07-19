@@ -1,0 +1,2 @@
+import pymahjong
+pymahjong.test()
